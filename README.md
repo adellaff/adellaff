@@ -3,7 +3,7 @@ Currently open for work opportunity~
 
 - 🌱 I’m a freshgraduate and is currently learning fullstack developement.
 - 📫 How to reach me: adellafitriany28@gmail.com
-- 🤔 I’m looking for help with web development and things.
+- 🤔 I’m currently interested with web development especially fullstack tech.
 <!-- - :grin: coding is fun when its finished. :grin: -->
 &nbsp;
 &nbsp;
