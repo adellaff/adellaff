@@ -4,7 +4,7 @@ Currently open for work opportunity~
 - 🌱 I’m a freshgraduate and is currently learning fullstack developement.
 - 📫 How to reach me: adellafitriany28@gmail.com
 - 🤔 I’m looking for help with web development and things.
-- :grin: coding is fun when its finished. :grin:
+<!-- - :grin: coding is fun when its finished. :grin: -->
 &nbsp;
 &nbsp;
 ----
