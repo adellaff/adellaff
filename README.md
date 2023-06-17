@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Adella!
-Currently open for work opportunity~
+
 
 - 🌱 I’m a freshgraduate and is currently learning fullstack developement.
 - 📫 How to reach me: adellafitriany28@gmail.com
