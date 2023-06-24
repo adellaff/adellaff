@@ -3,7 +3,7 @@
 
 - 🌱 I’m a freshgraduate and is currently learning fullstack developement.
 - 📫 How to reach me: adellafitriany28@gmail.com
-- 🤔 I’m currently interested with web development especially fullstack tech.
+- 🤔 currently interested in web development especially fullstack tech.
 &nbsp;
 &nbsp;
 ----
